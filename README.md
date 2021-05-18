@@ -1,4 +1,4 @@
-# highmed : High Dimensionnal Mediation
+# Highmed2 : High Dimensionnal Mediation
 
 The package contains a set of functions allowing to perform mediation analyzes in very high dimension. It was developed for DNA methylation data.
 
@@ -7,6 +7,6 @@ The package contains a set of functions allowing to perform mediation analyzes i
 Installing the latest version from github requires [devtools](https://github.com/hadley/devtools):
 ```R
 # install.packages("devtools")
-devtools::install_github("jumentib/highmed")
+devtools::install_github("jumentib/Highmed2")
 ```
 
